@@ -1,0 +1,14 @@
+D:\vs projects\RestApiTests\RestApiTests\bin\Debug\net8.0\RestApiTests.exe
+D:\vs projects\RestApiTests\RestApiTests\bin\Debug\net8.0\RestApiTests.deps.json
+D:\vs projects\RestApiTests\RestApiTests\bin\Debug\net8.0\RestApiTests.runtimeconfig.json
+D:\vs projects\RestApiTests\RestApiTests\bin\Debug\net8.0\RestApiTests.dll
+D:\vs projects\RestApiTests\RestApiTests\bin\Debug\net8.0\RestApiTests.pdb
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.AssemblyInfoInputs.cache
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.AssemblyInfo.cs
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.csproj.CoreCompileInputs.cache
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.dll
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\refint\RestApiTests.dll
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.pdb
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\RestApiTests.genruntimeconfig.cache
+D:\vs projects\RestApiTests\RestApiTests\obj\Debug\net8.0\ref\RestApiTests.dll
